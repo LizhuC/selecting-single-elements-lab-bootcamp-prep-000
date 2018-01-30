@@ -85,7 +85,7 @@ We are going to do the first one together, then you'll do the second two on your
 
 The first variable asks for the `querySelector` line for the header. Using the same technique you learned in the previous lesson, inspect the element and find out the `id` attribute of the header. It should be `header`. Great, now in the Console (be sure to change the top dropdown to CodePen Preview) type `document.querySelector("#header")`. That should return the correct header. This time though I want just the words "Adele Goldberg". To get just the words in an `h1` tag we are going to use the `innerHTML` attribute.
 
- >There are a lot of attributes out there. Don't memorize them, just google around when you can't remember!
+ >There are a lot of  them, just google around when you can't remember!attributes out there. Don't memorize
 
 Back in the console type:
 
